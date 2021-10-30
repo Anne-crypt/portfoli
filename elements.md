@@ -107,11 +107,11 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Icon include
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/anne-bonfante/)
 
 ``` html
 {% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/anne-bonfante/){% endraw %}
 ```
 
 ### Video include
